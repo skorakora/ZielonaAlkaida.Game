@@ -1,0 +1,105 @@
+[19:18:21] [Client thread/INFO]: Setting user: debil_co_nie_ustawil_nicku
+[19:18:22] [Client thread/WARN]: Skipping bad option: lastServer:
+[19:18:22] [Client thread/INFO]: LWJGL Version: 2.9.4
+[19:18:23] [Client thread/INFO]: Reloading ResourceManager: Default
+[19:18:23] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[19:18:23] [Thread-3/INFO]: Initializing LWJGL OpenAL
+[19:18:23] [Thread-3/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[19:18:24] [Thread-3/INFO]: OpenAL initialized.
+[19:18:24] [Sound Library Loader/INFO]: Sound engine started
+[19:18:25] [Client thread/INFO]: Created: 1024x512 textures-atlas
+[19:18:26] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[19:18:27] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[19:18:31] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[19:18:31] [Server thread/INFO]: Generating keypair
+[19:18:31] [Server thread/INFO]: Loaded 488 advancements
+[19:18:31] [Server thread/INFO]: Preparing start region for level 0
+[19:18:32] [Server thread/INFO]: Changing view distance to 12, from 10
+[19:18:32] [Server thread/INFO]: debil_co_nie_ustawil_nicku[local:E:dc13a441] logged in with entity id 232 at (-145.02070756182897, 64.0, 373.69999998807907)
+[19:18:32] [Server thread/INFO]: debil_co_nie_ustawil_nicku joined the game
+[19:18:33] [Server thread/INFO]: Saving and pausing game...
+[19:18:33] [Server thread/INFO]: Saving chunks for level 'Duppa'/overworld
+[19:18:33] [Server thread/INFO]: Saving chunks for level 'Duppa'/the_nether
+[19:18:33] [Server thread/INFO]: Saving chunks for level 'Duppa'/the_end
+[19:18:39] [Client thread/INFO]: Loaded 7 advancements
+[19:18:41] [Server thread/INFO]: <debil_co_nie_ustawil_nicku> afs
+[19:18:41] [Client thread/INFO]: [CHAT] <debil_co_nie_ustawil_nicku> afs
+[19:19:33] [Server thread/INFO]: Saving and pausing game...
+[19:19:33] [Server thread/INFO]: Saving chunks for level 'Duppa'/overworld
+[19:19:33] [Server thread/INFO]: Saving chunks for level 'Duppa'/the_nether
+[19:19:33] [Server thread/INFO]: Saving chunks for level 'Duppa'/the_end
+[19:20:07] [Server thread/INFO]: Saving and pausing game...
+[19:20:07] [Server thread/INFO]: Saving chunks for level 'Duppa'/overworld
+[19:20:07] [Server thread/INFO]: Saving chunks for level 'Duppa'/the_nether
+[19:20:07] [Server thread/INFO]: Saving chunks for level 'Duppa'/the_end
+[19:20:17] [Server thread/INFO]: Saving and pausing game...
+[19:20:17] [Server thread/INFO]: Saving chunks for level 'Duppa'/overworld
+[19:20:17] [Server thread/INFO]: Saving chunks for level 'Duppa'/the_nether
+[19:20:17] [Server thread/INFO]: Saving chunks for level 'Duppa'/the_end
+[19:20:52] [Client thread/INFO]: Loaded 8 advancements
+[19:21:45] [Client thread/INFO]: Loaded 17 advancements
+[19:21:45] [Client thread/INFO]: Loaded 21 advancements
+[19:24:37] [Client thread/INFO]: Loaded 39 advancements
+[19:25:02] [Server thread/INFO]: Saving and pausing game...
+[19:25:02] [Server thread/INFO]: Saving chunks for level 'Duppa'/overworld
+[19:25:02] [Server thread/INFO]: Saving chunks for level 'Duppa'/the_nether
+[19:25:02] [Server thread/INFO]: Saving chunks for level 'Duppa'/the_end
+[19:26:57] [Server thread/INFO]: [debil_co_nie_ustawil_nicku: Set the time to 1000]
+[19:26:57] [Client thread/INFO]: [CHAT] Set the time to 1000
+[19:28:19] [Server thread/INFO]: Saving and pausing game...
+[19:28:19] [Server thread/INFO]: Saving chunks for level 'Duppa'/overworld
+[19:28:19] [Server thread/INFO]: Saving chunks for level 'Duppa'/the_nether
+[19:28:19] [Server thread/INFO]: Saving chunks for level 'Duppa'/the_end
+[19:28:23] [Server thread/INFO]: Saving and pausing game...
+[19:28:23] [Server thread/INFO]: Saving chunks for level 'Duppa'/overworld
+[19:28:23] [Server thread/INFO]: Saving chunks for level 'Duppa'/the_nether
+[19:28:23] [Server thread/INFO]: Saving chunks for level 'Duppa'/the_end
+[19:29:06] [Client thread/INFO]: Loaded 43 advancements
+[19:29:28] [Server thread/INFO]: debil_co_nie_ustawil_nicku has made the advancement [Monster Hunter]
+[19:29:28] [Client thread/INFO]: [CHAT] debil_co_nie_ustawil_nicku has made the advancement [Monster Hunter]
+[19:29:28] [Client thread/INFO]: Loaded 44 advancements
+[19:29:36] [Client thread/INFO]: Loaded 45 advancements
+[19:31:08] [Server thread/INFO]: debil_co_nie_ustawil_nicku has made the advancement [Hot Stuff]
+[19:31:08] [Client thread/INFO]: [CHAT] debil_co_nie_ustawil_nicku has made the advancement [Hot Stuff]
+[19:31:08] [Client thread/INFO]: Loaded 52 advancements
+[19:32:29] [Client thread/INFO]: Loaded 53 advancements
+[19:32:36] [Client thread/INFO]: Loaded 59 advancements
+[19:34:10] [Client thread/INFO]: Loaded 60 advancements
+[19:37:22] [Client thread/INFO]: Loaded 94 advancements
+[19:39:28] [Server thread/INFO]: Saving and pausing game...
+[19:39:28] [Server thread/INFO]: Saving chunks for level 'Duppa'/overworld
+[19:39:28] [Server thread/INFO]: Saving chunks for level 'Duppa'/the_nether
+[19:39:28] [Server thread/INFO]: Saving chunks for level 'Duppa'/the_end
+[19:39:31] [Server thread/INFO]: Saving and pausing game...
+[19:39:31] [Server thread/INFO]: Saving chunks for level 'Duppa'/overworld
+[19:39:31] [Server thread/INFO]: Saving chunks for level 'Duppa'/the_nether
+[19:39:31] [Server thread/INFO]: Saving chunks for level 'Duppa'/the_end
+[19:39:34] [Server thread/INFO]: Saving and pausing game...
+[19:39:34] [Server thread/INFO]: Saving chunks for level 'Duppa'/overworld
+[19:39:34] [Server thread/INFO]: Saving chunks for level 'Duppa'/the_nether
+[19:39:34] [Server thread/INFO]: Saving chunks for level 'Duppa'/the_end
+[19:42:25] [Server thread/INFO]: Saving and pausing game...
+[19:42:25] [Server thread/INFO]: Saving chunks for level 'Duppa'/overworld
+[19:42:25] [Server thread/INFO]: Saving chunks for level 'Duppa'/the_nether
+[19:42:25] [Server thread/INFO]: Saving chunks for level 'Duppa'/the_end
+[19:47:02] [Client thread/INFO]: Loaded 95 advancements
+[19:56:52] [Server thread/INFO]: debil_co_nie_ustawil_nicku has made the advancement [Stone Age]
+[19:56:52] [Client thread/INFO]: [CHAT] debil_co_nie_ustawil_nicku has made the advancement [Stone Age]
+[19:56:52] [Client thread/INFO]: Loaded 105 advancements
+[19:57:58] [Server thread/INFO]: [debil_co_nie_ustawil_nicku: Set the time to 1000]
+[19:57:58] [Client thread/INFO]: [CHAT] Set the time to 1000
+[20:04:02] [Client thread/INFO]: Loaded 106 advancements
+[20:04:02] [Client thread/INFO]: Loaded 107 advancements
+[20:04:03] [Client thread/INFO]: Loaded 124 advancements
+[20:05:16] [Client thread/INFO]: Stopping!
+[20:05:17] [Client thread/INFO]: SoundSystem shutting down...
+[20:05:17] [Server thread/INFO]: Stopping server
+[20:05:17] [Server thread/INFO]: Saving players
+[20:05:17] [Server thread/INFO]: debil_co_nie_ustawil_nicku lost connection: Disconnected
+[20:05:17] [Server thread/INFO]: debil_co_nie_ustawil_nicku left the game
+[20:05:17] [Server thread/INFO]: Stopping singleplayer server as player logged out
+[20:05:17] [Server thread/INFO]: Saving worlds
+[20:05:17] [Server thread/INFO]: Saving chunks for level 'Duppa'/overworld
+[20:05:17] [Server thread/INFO]: Saving chunks for level 'Duppa'/the_nether
+[20:05:17] [Server thread/INFO]: Saving chunks for level 'Duppa'/the_end
+[20:05:17] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
